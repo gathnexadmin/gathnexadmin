@@ -32,6 +32,6 @@ We want to ensure that our community remains a friendly and constructive space. 
 
 If you have any questions, suggestions, or just want to connect, feel free to reach out to us:
 
-- **Email**: contact@gathnex.com 📧
+- **Email**: gathnexorg@gmail.com 📧
 
 Thank you for being a part of the Gathnex Community! Together, we can explore the fascinating world of Generative AI and LLM technologies. Happy coding! 🎉💻
